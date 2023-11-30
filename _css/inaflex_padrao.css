@@ -1,0 +1,117 @@
+/* estilos da pesquisa */
+
+h3 {
+    font-size: 30px;
+    padding: 0px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+label {
+    font-size: 50px;
+}
+
+div#criar_evento {
+    width:95,7%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: auto;
+    margin:0 auto 30px;
+    padding: 20px;
+    padding-top: 120px;
+}
+
+main div#criar_evento form h2{
+    margin:30 auto 30px;    
+    color: #CDC99B;
+    font-size: 100px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+input[type="text"], input[type="password"]{
+    border:1px solid #CDC99B;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 97%;
+    margin-bottom: 60px;
+    margin-top: 20px;
+    padding: 0 10px;
+    font-size: 50px;
+    height: 100px;
+
+}
+
+.textarea {
+    width: 98.5%;
+    border:1px solid #CDC99B;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 300px;
+    font-size: 50px;
+
+}
+
+input[type="submit"], .botao_normal{
+    width: 100px;
+    border:1px solid #CDC99B;
+    background-color:  #CDC99B;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 35px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    height: 100px;
+    width: 99.5%;
+    margin-top: 50px;
+}
+
+main div#janela_login form div div{
+    overflow: auto;
+    margin:50px auto 30px;
+    padding: 20px;
+
+}
+
+.separador {
+    display: block;
+    text-align: center;
+    margin-bottom: 50px;
+}
+main div#janela_login form div div label{
+    font-size: 50px;
+    margin-right: 30px;
+}
+
+main div#janela_login form div div input{
+    height:35px;
+    width:35px;
+    margin-right: 110px;
+}
+
+input[type="radio"] {
+    height: 35px;
+    width: 35px;
+    margin-right: 50px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.status_relatorio {
+    display: block;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    background-color: yellow;
+}

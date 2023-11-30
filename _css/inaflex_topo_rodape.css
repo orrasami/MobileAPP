@@ -1,0 +1,47 @@
+/* estilos da pesquisa */
+#logo{
+    position: absolute; top: 5px; left: 10px;
+    float: left;
+}
+
+#logout{
+    float: right;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+#titulo{
+    float: left;
+    margin-top: -10px;
+    margin-left: 150px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+
+/* CABEÇALHO */
+#cabecalho{
+    object-fit: cover;
+    position: fixed;
+    overflow: auto;
+    background-color:#EDEDDC;
+    border-bottom:1px solid #666;
+    width: 100%;
+    min-width: 650px;
+    height: 120px;
+    z-index: 1;
+}
+
+.botao_logout{
+    background-color: #CDC99B;
+    color: white;
+    font-size: 50px;
+    height: 100px;
+    width: 200px;
+    border:1px solid #CDC99B;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
